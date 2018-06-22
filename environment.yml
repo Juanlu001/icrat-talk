@@ -1,0 +1,9 @@
+name: brte36dsk18
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - dask
+  - requests
+  - jupyter
+  - python-graphviz
